@@ -36,23 +36,68 @@ Browse recipes from an API, **generate new recipes using AI (Spoonacular)** by p
 ## 📱 Screenshots
 
 <details>
-<summary>🌞 Light Mode</summary>
+<summary>🌙 Dark Mode</summary>
 
 ### 🔐 Auth Screens
 <p>
-  <img src="assets/screenshots/light/auth1.jpg" width="220"/>
-  <img src="assets/screenshots/light/auth2.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0032.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0030.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0030.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0029.jpg" width="220"/>
 </p>
 
 ### 🍲 Recipe Screens
 <p>
-  <img src="assets/screenshots/light/recipe1.jpg" width="220"/>
-  <img src="assets/screenshots/light/recipe2.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0028.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0027.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0026.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0025.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0024.jpg" width="220"/>
 </p>
 
 ### 🤖 AI Assistant Screen
 <p>
-  <img src="assets/screenshots/light/ai1.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0024.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0023.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0022.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0021.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0020.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0019.jpg" width="220"/>
+</p>
+
+### 💾 Saved Recipes & Settings
+<p>
+  <img src="screenshots/IMG-20250826-WA0018.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0017.jpg" width="220"/>
+</p>
+
+### 🔔 Notifications
+<p>
+  <img src="screenshots/IMG-20250826-WA0008.jpg" width="220"/>
+</p>
+</details>
+
+--- 
+
+<details>
+<summary>🌞 Light Mode</summary>
+
+### 🔐 Auth Screens
+<p>
+  <img src="screenshots/IMG-20250826-WA0016.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0014.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0015.jpg" width="220"/>
+</p>
+
+### 🍲 Recipe Screens
+<p>
+  <img src="screenshots/IMG-20250826-WA0013.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0012.jpg" width="220"/>
+</p>
+
+### 🤖 AI Assistant Screen
+<p>
+  <img src="screenshots/IMG-20250826-WA0011.jpg" width="220"/>
 </p>
 
 ### 💾 Saved Recipes & Settings
@@ -64,40 +109,6 @@ Browse recipes from an API, **generate new recipes using AI (Spoonacular)** by p
 ### 🔔 Notifications
 <p>
   <img src="screenshots/IMG-20250826-WA0007.jpg width="220"/>
-</p>
-</details>
-
----
-
-<details>
-<summary>🌙 Dark Mode</summary>
-
-### 🔐 Auth Screens
-<p>
-  <img src="assets/screenshots/dark/auth1.jpg" width="220"/>
-  <img src="assets/screenshots/dark/auth2.jpg" width="220"/>
-</p>
-
-### 🍲 Recipe Screens
-<p>
-  <img src="assets/screenshots/dark/recipe1.jpg" width="220"/>
-  <img src="assets/screenshots/dark/recipe2.jpg" width="220"/>
-</p>
-
-### 🤖 AI Assistant Screen
-<p>
-  <img src="assets/screenshots/dark/ai1.jpg" width="220"/>
-</p>
-
-### 💾 Saved Recipes & Settings
-<p>
-  <img src="assets/screenshots/dark/saved.jpg" width="220"/>
-  <img src="assets/screenshots/dark/settings.jpg" width="220"/>
-</p>
-
-### 🔔 Notifications
-<p>
-  <img src="screenshots/IMG-20250826-WA0008.jpg" width="220"/>
 </p>
 </details>
 
