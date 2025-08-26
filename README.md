@@ -57,13 +57,13 @@ Browse recipes from an API, **generate new recipes using AI (Spoonacular)** by p
 
 ### 💾 Saved Recipes & Settings
 <p>
-  <img src="assets/screenshots/light/saved.jpg" width="220"/>
-  <img src="assets/screenshots/light/settings.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0010.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0009.jpg" width="220"/>
 </p>
 
 ### 🔔 Notifications
 <p>
-  <img src="IMG-20250826-WA0007.jpg width="220"/>
+  <img src="screenshots/IMG-20250826-WA0007.jpg width="220"/>
 </p>
 </details>
 
@@ -97,7 +97,7 @@ Browse recipes from an API, **generate new recipes using AI (Spoonacular)** by p
 
 ### 🔔 Notifications
 <p>
-  <img src="assets/screenshots/dark/notifications.jpg" width="220"/>
+  <img src="screenshots/IMG-20250826-WA0008.jpg" width="220"/>
 </p>
 </details>
 
